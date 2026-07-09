@@ -18,5 +18,6 @@ public class ArithmeticExample {
         System.out.println("Modulus = " + (a % b));
 
         sc.close();
+        
     }
 }
