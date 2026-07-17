@@ -1,0 +1,1 @@
+  // System.out.println("enter the marks for subject " + i +": ");
